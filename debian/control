@@ -9,8 +9,8 @@ Homepage: http://github.com/ivoronin/unity-webapps-rmilk/
 Package: unity-webapps-rmilk
 Architecture: all
 Depends: unity-webapps-common, xdg-utils, ${misc:Depends}
-Ubuntu-Webapps-Domain: rememberthemilk.com
-Ubuntu-Webapps-Includes: https://*.rememberthemilk.com/
-Ubuntu-Webapps-Name: Remember The Milk
+XB-Ubuntu-Webapps-Domain: rememberthemilk.com
+XB-Ubuntu-Webapps-Includes: https://*.rememberthemilk.com/*;https://rememberthemilk.com/*
+XB-Ubuntu-Webapps-Name: Remember The Milk
 Description: Unity Webapp for Remember The Milk
  Remember The Milk Webapp for Unity

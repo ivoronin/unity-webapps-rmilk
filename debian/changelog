@@ -1,3 +1,9 @@
+unity-webapps-rmilk (1.0-3) raring; urgency=low
+
+  * Fixed control file headers
+
+ -- Ilya Voronin <ivoronin@gmail.com>  Sat, 22 Jun 2013 13:07:04 +0400
+
 unity-webapps-rmilk (1.0-2) raring; urgency=low
 
   * Architecture changed to 'all'
