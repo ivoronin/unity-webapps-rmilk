@@ -1,0 +1,12 @@
+{
+	"includes": ["https://*.rememberthemilk.com/*"],
+	"requires": ["utils.js"],
+	"name": "rmilk",
+	"scripts": ["rmilk.user.js"],
+	"maintainer": "Ilya Voronin <ivoronin@gmail.com>",
+	"manifest-version": "1.0",
+	"integration-version": "1.0",
+	"package-name": "rmilk",
+	"icons": {},
+	"domain": "amazon.com"
+}

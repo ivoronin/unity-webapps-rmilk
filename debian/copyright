@@ -1,0 +1,9 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: unity-webapps-rmilk
+Source: <http://github.com/ivoronin/unity-webapps-rmilk/>
+
+Files: *
+Copyright: 2013 Ilya Voronin <ivoronin@gmail.com>
+License: GPL-3+
+ The full text of the GNU General Public License version 3 can be found in the file
+ `/usr/share/common-licenses/GPL-3'.

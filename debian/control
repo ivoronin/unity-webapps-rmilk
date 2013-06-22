@@ -1,0 +1,16 @@
+Source: unity-webapps-rmilk
+Section: web
+Priority: extra
+Maintainer: Ilya Voronin <ivoronin@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: http://github.com/ivoronin/unity-webapps-rmilk/
+
+Package: unity-webapps-rmilk
+Architecture: any
+Depends: unity-webapps-common, xdg-utils, ${misc:Depends}
+Ubuntu-Webapps-Domain: rememberthemilk.com
+Ubuntu-Webapps-Includes: https://*.rememberthemilk.com/
+Ubuntu-Webapps-Name: Remember The Milk
+Description: Unity Webapp for Remember The Milk
+ Remember The Milk Webapp for Unity
