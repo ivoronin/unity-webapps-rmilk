@@ -1,3 +1,9 @@
+unity-webapps-rmilk (1.0-2) raring; urgency=low
+
+  * Architecture changed to 'all'
+
+ -- Ilya Voronin <ivoronin@gmail.com>  Sat, 22 Jun 2013 04:23:40 +0400
+
 unity-webapps-rmilk (1.0-1) raring; urgency=low
 
   * Initial release

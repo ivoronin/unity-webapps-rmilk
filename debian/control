@@ -7,7 +7,7 @@ Standards-Version: 3.9.4
 Homepage: http://github.com/ivoronin/unity-webapps-rmilk/
 
 Package: unity-webapps-rmilk
-Architecture: any
+Architecture: all
 Depends: unity-webapps-common, xdg-utils, ${misc:Depends}
 Ubuntu-Webapps-Domain: rememberthemilk.com
 Ubuntu-Webapps-Includes: https://*.rememberthemilk.com/
